@@ -13,6 +13,6 @@ input{
 input:focus{
         border-color: #66afe9;
         outline: 0;
-        -webkit-box-shadow: inset 0 1px 1px rgba(255,136,115,.075),0 0 8px rgba(255,136,115,.6);
-        box-shadow: inset 0 1px 1px rgba(255,136,115,.075),0 0 8px rgba(255,136,115,.6)
+        -webkit-box-shadow: inset 0 1px 1px rgb(255,136,115),0 0 8px rgb(255,136,115);
+        box-shadow: inset 0 1px 1px rgb(255,136,115),0 0 8px rgb(255,136,115)
 }
