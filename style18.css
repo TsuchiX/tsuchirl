@@ -9,13 +9,6 @@ input{
     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-    width: 232px;
-    /* 把元素变成定位元素 */
-    position: absolute;
-    /* 元素距离上，左都为50% */
-    left: 50%;
-    top: 50%;
-    /* 让元素的左外边距，上外边距为元素宽高的1/2 注意margin是负距*/
 }
 input:focus{
         border-color:#FF8873;
